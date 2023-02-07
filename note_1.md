@@ -1,4 +1,4 @@
-# JavaScript 第一步
+# JavaScript 第一步 [doc](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/First_steps)
 ## JavaScript 第一步概述
 ---
 ## 什麼是 JavaScript？
@@ -16,6 +16,7 @@
 # Example: 在 Terminal 透過 Node.js 執行 JavaScript
 node run-script.js
 ```
+### 補充：Java 和 JavaScript 有什麼關係？
 ---
 ## 初次接觸 JavaScript - [link](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/First_steps/A_first_splash)
 ### 拆解需求
